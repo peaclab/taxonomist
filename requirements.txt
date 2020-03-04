@@ -1,0 +1,8 @@
+pandas
+jupyter
+scipy
+scikit-learn
+tqdm
+matplotlib
+numpy
+tables
