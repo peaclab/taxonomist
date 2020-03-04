@@ -33,15 +33,14 @@ framework. The module contents can be imported for other projects.
 browser.
 **notebook.ipynb** - interactive Jupyter Notebook file, for operation see
 README.pdf.
-**data.zip** - compressed .zip file holding monitoring data collected from different
+**data/** - Folder containing monitoring data collected from different
 applications executed on Volta:
 - **metadata.csv**: A csv file listing each run, the IDs of the nodes on which each
   run executed, which application was executed with which inputs, the start and
   end times and the duration of the applications.
 
-- **timeseries.tar.bz2**: A bzip2 compressed file containing the data collected. The
-  uncompressed size is 16 GB, it is not necessary to uncompress for most of the
-  notebook.
+- **timeseries.tar.bz2**: This file is removed from GitHub, but it can be
+  downloaded from the FigShare link below.
 
 - **features.hdf**: A HDF5 File containing the pre-calculated features. The
   calculation process is included in the notebook.
