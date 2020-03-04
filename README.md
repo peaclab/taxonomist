@@ -39,11 +39,8 @@ applications executed on Volta:
   run executed, which application was executed with which inputs, the start and
   end times and the duration of the applications.
 
-- **timeseries.tar.bz2**: This file is removed from GitHub, but it can be
-  downloaded from the FigShare link below.
-
-- **features.hdf**: A HDF5 File containing the pre-calculated features. The
-  calculation process is included in the notebook.
+- **timeseries.tar.bz2, features.hdf**: These files are removed from GitHub, but
+  they can be downloaded from the FigShare link below.
 
 **requirements.txt** - list of Python packages required.
 **LICENSE** - the licence under which this software is released
